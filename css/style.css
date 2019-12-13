@@ -1,0 +1,23 @@
+.mypost {
+    width: 100%; 
+    height: 300px; 
+    object-fit: cover;
+}
+
+.link {
+    color: #666;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.mycard {
+    width: 70%;
+    margin: 10px auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.mitexto {
+    font-size: 30px;
+    color: aqua;     
+}
